@@ -25,7 +25,7 @@ This is a web based application developed for Skin Beauty care in india
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-  ## Screenshots
+## Screenshots
 
 ![Screenshot-2022-11-11_08 12 11](https://user-images.githubusercontent.com/111976491/202237423-d476157d-2259-43e7-b2b1-07e8baa740d7.png)
 
