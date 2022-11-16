@@ -4,6 +4,8 @@ This is a web based application developed for Skin Beauty care in india
 
 ### This web based on skin care and this application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future ready tallent & Github.
 
+Good skin care is important for the following reasons: It helps your skin stay in good condition: You're shedding skin cells throughout the day, so it's important to keep your skin glowing and in good condition. An effective routine can help prevent acne, treat wrinkles, and help keep your skin looking its best.
+
 
 **Project Link** - https://nice-ocean-068ddaa00.2.azurestaticapps.net
 
