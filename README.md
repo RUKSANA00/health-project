@@ -9,7 +9,7 @@ Good skin care is important for the following reasons: It helps your skin stay i
 
 **Project Link** - https://nice-ocean-068ddaa00.2.azurestaticapps.net
 
-**Project demo video link** -
+**Project demo video link** - https://youtu.be/3A6HvyKLExk
 
 //Azure Technologies used for project
 
