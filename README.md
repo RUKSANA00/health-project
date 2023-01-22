@@ -1,3 +1,4 @@
+![azurems](https://user-images.githubusercontent.com/111976491/213922803-183f5243-5ab4-425a-98d5-232160c6005b.png)
  # ✨ Skin Beauty  ✨
 
 This is a web based application developed for Skin Beauty care in india
