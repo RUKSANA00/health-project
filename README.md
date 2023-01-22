@@ -27,8 +27,11 @@ Good skin care is important for the following reasons: It helps your skin stay i
 - Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
+
+## Screenshots
+
 ![azurems](https://user-images.githubusercontent.com/111976491/213922803-183f5243-5ab4-425a-98d5-232160c6005b.png)
-## Screenshots![azurehealthbot](https://user-images.githubusercontent.com/111976491/213922642-a0ee8625-7324-4fc3-881c-091488920761.png)
+![azurehealthbot](https://user-images.githubusercontent.com/111976491/213922642-a0ee8625-7324-4fc3-881c-091488920761.png)
 
 
 ![Screenshot-2022-11-11_08 12 11](https://user-images.githubusercontent.com/111976491/202237423-d476157d-2259-43e7-b2b1-07e8baa740d7.png)
