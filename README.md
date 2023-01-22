@@ -27,7 +27,8 @@ Good skin care is important for the following reasons: It helps your skin stay i
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots
+## Screenshots![azurehealthbot](https://user-images.githubusercontent.com/111976491/213922642-a0ee8625-7324-4fc3-881c-091488920761.png)
+
 
 ![Screenshot-2022-11-11_08 12 11](https://user-images.githubusercontent.com/111976491/202237423-d476157d-2259-43e7-b2b1-07e8baa740d7.png)
 
