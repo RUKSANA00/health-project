@@ -53,6 +53,9 @@ Good skin care is important for the following reasons: It helps your skin stay i
 ![Screenshot-2022-11-11_08 12 16](https://user-images.githubusercontent.com/111976491/202238291-7f839cfc-9600-40b4-822f-a5362867e6fd.png)
 
 ![Screenshot-2022-11-11_08 12 17](https://user-images.githubusercontent.com/111976491/202238429-7395bf8f-78e7-4234-b2ac-a2527c2deb95.png)
+## Reserved by
+![rukksana](https://user-images.githubusercontent.com/111976491/214770179-3cb132e9-2958-4013-ad84-d75e0b873604.png)
+
 ## How I used Healthbot in my Project
 ![bot1](https://user-images.githubusercontent.com/111976491/213923052-8b628e09-fc39-47cc-bec2-48d3d0820593.png)
 ![bot2](https://user-images.githubusercontent.com/111976491/213923071-06c0a6b6-fed4-45d6-929e-c0e214a80e0e.png)
